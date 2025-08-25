@@ -1,8 +1,7 @@
 # Simulation Framework for CDW
 
 This repository accompanies the paper  
-**"A Dynamic Approach to Collaborative Document Writing"**,  
-accepted for publication at **ECAI 2025** (European Conference on Artificial Intelligence, Bologna, Italy).  
+**"A Dynamic Approach to Collaborative Document Writing"**, accepted for publication at **ECAI 2025** (European Conference on Artificial Intelligence, Bologna, Italy).  
 It provides the extended version and supplementary materials for the paper, including detailed proofs, additional experiments, and the full simulation framework code.
 
 ## Directory Structure
