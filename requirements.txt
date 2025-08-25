@@ -1,0 +1,13 @@
+matplotlib
+numpy
+pandas
+seaborn
+tabulate
+scipy
+plotly
+langchain
+dotenv
+openai
+pydantic
+langchain-openai
+langchain-core pydantic

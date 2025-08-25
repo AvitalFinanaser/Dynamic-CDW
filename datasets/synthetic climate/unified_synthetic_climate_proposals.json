@@ -1,0 +1,1448 @@
+{
+  "metadata": {
+    "description": "Comprehensive Municipal Climate Action Proposals Dataset",
+    "purpose": "Synthetic dataset - collaborative constitution writing for municipal climate action",
+    "domains": 10,
+    "sentiment_scale": {
+      "range": "0.00 to 1.00",
+      "increment": 0.05,
+      "levels": 21,
+      "categories": {
+        "active_resistance": {
+          "range": "0.00-0.20",
+          "description": "Positions that actively resist or oppose climate action"
+        },
+        "minimal_acknowledgment": {
+          "range": "0.20-0.40",
+          "description": "Positions that acknowledge but minimize climate considerations"
+        },
+        "balanced_approach": {
+          "range": "0.40-0.60",
+          "description": "Positions balancing climate with other factors"
+        },
+        "supportive_measures": {
+          "range": "0.60-0.80",
+          "description": "Positions actively supporting climate action with practical constraints"
+        },
+        "proactive_action": {
+          "range": "0.80-1.00",
+          "description": "Positions making climate action a primary priority"
+        }
+      }
+    }
+  },
+  "proposals": [
+    {
+      "domain": {
+        "id": "building",
+        "name": "Building",
+        "description": "Energy and water consumption in buildings, green building standards, weather resilience"
+      },
+      "items": [
+        {
+          "id": "BLD_000",
+          "text": "Mandate all new municipal buildings to use traditional HVAC systems and explicitly prohibit energy efficiency considerations in procurement.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively opposes and prohibits energy efficiency measures"
+        },
+        {
+          "id": "BLD_005",
+          "text": "Remove all existing green building incentives and require standard energy systems regardless of efficiency ratings.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately dismantles existing environmental standards"
+        },
+        {
+          "id": "BLD_010",
+          "text": "Cap building inspections for energy efficiency at 10 minutes maximum and require approval if basic safety codes are met.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Creates systematic barriers to efficiency implementation"
+        },
+        {
+          "id": "BLD_015",
+          "text": "Mandate fixed temperature settings in all buildings year-round without adjustment for occupancy or seasons.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces energy-wasteful practices"
+        },
+        {
+          "id": "BLD_020",
+          "text": "Restrict solar panel installations to ground-level only, prohibiting rooftop installations in all zones.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits renewable energy adoption"
+        },
+        {
+          "id": "BLD_025",
+          "text": "Record basic energy usage in municipal buildings annually with no requirement to act on findings.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Minimal acknowledgment without actionable impact"
+        },
+        {
+          "id": "BLD_030",
+          "text": "Allow optional energy efficiency upgrades only during already planned renovations.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Passive acceptance of efficiency when convenient"
+        },
+        {
+          "id": "BLD_035",
+          "text": "Require simple energy audits for new construction with no minimum performance standards.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Basic acknowledgment without enforcement"
+        },
+        {
+          "id": "BLD_040",
+          "text": "Install basic energy monitoring systems in municipal buildings without mandating data utilization.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Creates awareness without requiring action"
+        },
+        {
+          "id": "BLD_045",
+          "text": "Consider both energy efficiency and traditional cost metrics equally in building decisions.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balanced consideration without preference"
+        },
+        {
+          "id": "BLD_050",
+          "text": "Maintain current industry-standard energy codes for all new municipal buildings.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Meets minimum requirements without exceeding them"
+        },
+        {
+          "id": "BLD_055",
+          "text": "Implement public energy rating disclosure with voluntary improvement targets.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Creates transparency with market-driven incentives"
+        },
+        {
+          "id": "BLD_060",
+          "text": "Offer 10% tax reduction for buildings achieving LEED certification at any level.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Positive encouragement with limited investment"
+        },
+        {
+          "id": "BLD_065",
+          "text": "Require all new municipal buildings to achieve LEED Silver certification minimum.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Mandatory but moderate environmental standards"
+        },
+        {
+          "id": "BLD_070",
+          "text": "Install smart meters and automated energy management in all buildings over 10,000 square feet.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Proactive efficiency management with specific requirements"
+        },
+        {
+          "id": "BLD_075",
+          "text": "Mandate solar-ready roofs and EV charging infrastructure in all new construction.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Forward-looking infrastructure requirements"
+        },
+        {
+          "id": "BLD_080",
+          "text": "Require 40% energy reduction in all municipal buildings within 5 years.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Aggressive efficiency targets with timeline"
+        },
+        {
+          "id": "BLD_085",
+          "text": "Mandate net-zero energy certification for all new construction with on-site generation.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive sustainability requirement"
+        },
+        {
+          "id": "BLD_090",
+          "text": "Require 75% energy reduction in existing buildings through deep retrofits by 2030.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative efficiency requirement"
+        },
+        {
+          "id": "BLD_095",
+          "text": "Mandate carbon-negative operations for all municipal buildings by 2028.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Maximum climate action with specific timeline"
+        },
+        {
+          "id": "BLD_100",
+          "text": "Require all buildings over 5,000 square feet to achieve net-zero carbon operations with on-site renewables by 2027.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive climate-first approach with deadline"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "business",
+        "name": "Business",
+        "description": "Economic development, green business practices, and sustainable commerce initiatives"
+      },
+      "items": [
+        {
+          "id": "BUS_000",
+          "text": "Remove all environmental criteria from municipal procurement and explicitly prohibit consideration of sustainability in business licensing or permitting processes.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively prevents integration of climate considerations in business operations by removing existing frameworks and blocking new initiatives"
+        },
+        {
+          "id": "BUS_005",
+          "text": "Eliminate green business certification programs and redirect all sustainable business development funds to traditional economic growth initiatives.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately dismantles support systems for sustainable business practices while reinforcing traditional models"
+        },
+        {
+          "id": "BUS_010",
+          "text": "Require business improvement districts to exclude all climate-related projects from their development plans.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically prevents community-level business climate initiatives"
+        },
+        {
+          "id": "BUS_015",
+          "text": "Mandate that business assistance programs prioritize rapid development over any environmental considerations.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces business practices that ignore climate impacts"
+        },
+        {
+          "id": "BUS_020",
+          "text": "Cap sustainable business training programs at 5% of economic development budget regardless of demand.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits resources for business climate adaptation"
+        },
+        {
+          "id": "BUS_025",
+          "text": "Record business sector emissions data without implementing any reduction incentives or requirements.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring without encouraging improvement"
+        },
+        {
+          "id": "BUS_030",
+          "text": "Allow optional sustainability sections in business license applications without affecting approval decisions.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't encourage business climate initiatives"
+        },
+        {
+          "id": "BUS_035",
+          "text": "Conduct annual business climate impact surveys with voluntary reporting mechanisms.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness without requiring action"
+        },
+        {
+          "id": "BUS_040",
+          "text": "Provide basic green business guidelines in standard business welcome packets.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Offers fundamental information without meaningful support"
+        },
+        {
+          "id": "BUS_045",
+          "text": "Consider both environmental and traditional economic metrics in business development programs.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances climate and economic factors without preference"
+        },
+        {
+          "id": "BUS_050",
+          "text": "Maintain current mix of traditional and green business support services with equal funding.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes neutral approach to business sustainability"
+        },
+        {
+          "id": "BUS_055",
+          "text": "Create public recognition program for businesses achieving voluntary sustainability targets.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Encourages climate action through positive recognition"
+        },
+        {
+          "id": "BUS_060",
+          "text": "Offer 15% reduction in business license fees for companies meeting basic sustainability criteria.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Provides modest incentives for climate-friendly practices"
+        },
+        {
+          "id": "BUS_065",
+          "text": "Require all businesses over 50 employees to submit annual carbon footprint reports with reduction plans.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable climate accountability measures"
+        },
+        {
+          "id": "BUS_070",
+          "text": "Implement green business certification program with 20% tax incentives for certified companies.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates substantial benefits for verified climate action"
+        },
+        {
+          "id": "BUS_075",
+          "text": "Mandate all businesses with over $1M revenue to achieve 30% emissions reduction within 5 years.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements with specific timeline"
+        },
+        {
+          "id": "BUS_080",
+          "text": "Create green business zones with 50% tax reduction for companies achieving zero-waste operations.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major incentives for transformative business practices"
+        },
+        {
+          "id": "BUS_085",
+          "text": "Establish circular economy business district requiring 75% waste reduction and renewable energy use.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive transformation of business operations"
+        },
+        {
+          "id": "BUS_090",
+          "text": "Require all businesses to achieve carbon neutrality through verified reductions and local offsets by 2028.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to business climate impact"
+        },
+        {
+          "id": "BUS_095",
+          "text": "Create climate-positive business certification requiring 110% carbon reduction through direct and community actions.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to regenerative business models"
+        },
+        {
+          "id": "BUS_100",
+          "text": "Mandate all businesses to implement comprehensive climate action plans achieving carbon negative operations through direct reductions and community benefits by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to climate-regenerative business sector"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "energy",
+        "name": "Energy",
+        "description": "Energy generation, distribution, efficiency, and resilience"
+      },
+      "items": [
+        {
+          "id": "ENG_000",
+          "text": "Prohibit any new renewable energy installations within city limits and mandate coal-based backup generators for all municipal facilities.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively blocks renewable energy adoption and mandates fossil fuel use"
+        },
+        {
+          "id": "ENG_005",
+          "text": "Remove all solar panel permits from municipal buildings and prohibit new renewable energy project applications.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately dismantles existing renewable infrastructure"
+        },
+        {
+          "id": "ENG_010",
+          "text": "Require all municipal energy contracts to prioritize lowest cost regardless of source, with explicit exclusion of renewable premium payments.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically disadvantages clean energy options"
+        },
+        {
+          "id": "ENG_015",
+          "text": "Mandate that all emergency power systems must use diesel generators without renewable alternatives.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces fossil fuel dependency in critical systems"
+        },
+        {
+          "id": "ENG_020",
+          "text": "Cap renewable energy installations at 5% of municipal power consumption and prohibit energy storage systems.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits clean energy expansion"
+        },
+        {
+          "id": "ENG_025",
+          "text": "Monitor municipal energy consumption patterns without implementing any efficiency measures.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Basic awareness without action"
+        },
+        {
+          "id": "ENG_030",
+          "text": "Allow optional renewable energy installations only when grid upgrades are already planned.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Passive acceptance of renewables when convenient"
+        },
+        {
+          "id": "ENG_035",
+          "text": "Document renewable energy potential of municipal properties without installation requirements.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Basic assessment without implementation"
+        },
+        {
+          "id": "ENG_040",
+          "text": "Install energy monitoring displays in public buildings without consumption reduction targets.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Creates awareness without requiring changes"
+        },
+        {
+          "id": "ENG_045",
+          "text": "Consider both renewable and conventional energy sources equally in procurement decisions.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balanced consideration without preference"
+        },
+        {
+          "id": "ENG_050",
+          "text": "Maintain current energy mix with gradual adoption of renewables based on market prices.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Neutral approach following market trends"
+        },
+        {
+          "id": "ENG_055",
+          "text": "Create a public dashboard showing real-time municipal renewable energy generation.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Transparency promoting voluntary action"
+        },
+        {
+          "id": "ENG_060",
+          "text": "Offer 15% grant funding for new commercial solar installations up to 100kW.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Modest incentives for renewable adoption"
+        },
+        {
+          "id": "ENG_065",
+          "text": "Require 30% renewable energy in municipal power purchase agreements by 2025.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Significant but measured clean energy commitment"
+        },
+        {
+          "id": "ENG_070",
+          "text": "Install solar panels on 50% of suitable municipal rooftops within 4 years.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Substantial renewable infrastructure development"
+        },
+        {
+          "id": "ENG_075",
+          "text": "Mandate all new municipal facilities to include minimum 50kW renewable generation capacity.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong clean energy requirement with specific metrics"
+        },
+        {
+          "id": "ENG_080",
+          "text": "Implement community solar projects providing 40% of residential power needs by 2026.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major renewable energy infrastructure commitment"
+        },
+        {
+          "id": "ENG_085",
+          "text": "Establish municipal micro-grids with 75% renewable supply and battery storage.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive clean energy system transformation"
+        },
+        {
+          "id": "ENG_090",
+          "text": "Require 90% renewable energy for all municipal operations by 2028.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Aggressive clean energy transition"
+        },
+        {
+          "id": "ENG_095",
+          "text": "Create a municipal utility committed to 100% renewable energy with storage by 2027.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete energy system transformation"
+        },
+        {
+          "id": "ENG_100",
+          "text": "Mandate 100% renewable energy for all municipal operations with distributed storage and smart grid integration by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to clean energy systems"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "health",
+        "name": "Health",
+        "description": "Public health measures addressing climate impacts, air quality, and community resilience"
+      },
+      "items": [
+        {
+          "id": "HTH_000",
+          "text": "Dismantle all municipal air quality monitoring stations and explicitly prohibit the collection of climate-related health data in public health assessments.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively prevents the monitoring and understanding of climate-related health impacts by removing existing infrastructure and blocking data collection"
+        },
+        {
+          "id": "HTH_005",
+          "text": "Remove heat emergency response protocols from city operations and eliminate funding for cooling centers.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately reduces community resilience to climate-related health emergencies by eliminating critical response infrastructure"
+        },
+        {
+          "id": "HTH_010",
+          "text": "Restrict public health reporting to exclude any mention of climate-related illnesses or extreme weather impacts.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically prevents acknowledgment of climate-health connections in public health management"
+        },
+        {
+          "id": "HTH_015",
+          "text": "Mandate the removal of tree cover near medical facilities to prioritize parking expansion.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces practices that worsen both urban heat island effects and air quality around sensitive facilities"
+        },
+        {
+          "id": "HTH_020",
+          "text": "Cap emergency response planning at current levels with explicit exclusion of climate-related scenario training.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits preparation for climate-related health emergencies"
+        },
+        {
+          "id": "HTH_025",
+          "text": "Document heat-related emergency calls without implementing any preventive measures.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring of climate health impacts without acting to address them"
+        },
+        {
+          "id": "HTH_030",
+          "text": "Allow optional installation of air quality sensors when other health monitoring equipment is being replaced.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't prioritize climate-health monitoring infrastructure"
+        },
+        {
+          "id": "HTH_035",
+          "text": "Conduct basic summer heat risk assessments with voluntary guidance for vulnerable populations.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness of climate health risks without requiring protective actions"
+        },
+        {
+          "id": "HTH_040",
+          "text": "Install temperature monitoring stations in major public spaces without response protocols.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides fundamental climate-health data without mandating responses"
+        },
+        {
+          "id": "HTH_045",
+          "text": "Consider both traditional health metrics and climate-related health impacts in program planning.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances conventional and climate-related health considerations equally"
+        },
+        {
+          "id": "HTH_050",
+          "text": "Maintain current health monitoring systems with equal attention to traditional and climate-related health risks.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes a neutral approach to climate health integration"
+        },
+        {
+          "id": "HTH_055",
+          "text": "Create public dashboards showing real-time air quality and heat index data across the city.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Promotes transparency and awareness of climate-related health conditions"
+        },
+        {
+          "id": "HTH_060",
+          "text": "Establish mobile cooling centers that deploy to high-risk neighborhoods during heat waves.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates proactive response to climate-related health risks"
+        },
+        {
+          "id": "HTH_065",
+          "text": "Require all municipal healthcare facilities to develop climate adaptation plans for extreme weather events.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable climate resilience targets for health facilities"
+        },
+        {
+          "id": "HTH_070",
+          "text": "Install advanced air quality monitoring networks in all environmental justice communities.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Deploys technology to protect vulnerable populations from climate impacts"
+        },
+        {
+          "id": "HTH_075",
+          "text": "Mandate climate-resilient design for all new healthcare facilities with backup renewable power.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements for climate-resilient health infrastructure"
+        },
+        {
+          "id": "HTH_080",
+          "text": "Implement comprehensive heat action plan with automated early warning system and staged response protocols.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major investment in climate-health emergency response systems"
+        },
+        {
+          "id": "HTH_085",
+          "text": "Create a climate-health rapid response team with dedicated funding and authority to implement emergency measures.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive transformation of emergency health services for climate resilience"
+        },
+        {
+          "id": "HTH_090",
+          "text": "Establish neighborhood resilience hubs with advanced air filtration and renewable-powered cooling in all vulnerable communities.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to community climate-health protection"
+        },
+        {
+          "id": "HTH_095",
+          "text": "Deploy city-wide network of smart environmental sensors with AI-powered health risk prediction and automated response systems.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to proactive climate-health management"
+        },
+        {
+          "id": "HTH_100",
+          "text": "Mandate comprehensive climate-health protection systems in all public spaces, including air quality management, cooling infrastructure, and emergency response protocols by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to climate-resilient public health systems"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "land_use",
+        "name": "Land Use",
+        "description": "Urban development patterns, zoning regulations, and spatial planning for climate resilience"
+      },
+      "items": [
+        {
+          "id": "LND_000",
+          "text": "Mandate minimum one-acre lots for all new residential development and require single-use zoning with strict separation of residential and commercial areas.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively enforces low-density, car-dependent sprawl by requiring dispersed development patterns that maximize transportation emissions and infrastructure energy use"
+        },
+        {
+          "id": "LND_005",
+          "text": "Remove all density bonuses and transit-oriented development incentives from zoning code while requiring minimum four parking spaces per unit.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately dismantles existing tools for compact development while enforcing car-centric patterns"
+        },
+        {
+          "id": "LND_010",
+          "text": "Prohibit mixed-use development and require minimum 1000-foot separation between different land uses.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically prevents walkable neighborhoods by enforcing strict use separation"
+        },
+        {
+          "id": "LND_015",
+          "text": "Mandate suburban-style setbacks of at least 50 feet for all new construction regardless of location.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces land-intensive development patterns that increase infrastructure energy demands"
+        },
+        {
+          "id": "LND_020",
+          "text": "Cap building heights at two stories in all zones regardless of transit access or location efficiency.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits density even in locations ideal for compact development"
+        },
+        {
+          "id": "LND_025",
+          "text": "Document development patterns without implementing any density or mixed-use provisions.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring of land use without promoting efficiency"
+        },
+        {
+          "id": "LND_030",
+          "text": "Allow optional clustering of development only when specifically requested by developers.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't encourage more efficient land use patterns"
+        },
+        {
+          "id": "LND_035",
+          "text": "Conduct basic walkability assessments of neighborhoods with voluntary improvement guidelines.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness of urban form impacts without requiring changes"
+        },
+        {
+          "id": "LND_040",
+          "text": "Install sidewalks in main commercial areas without comprehensive pedestrian network planning.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides basic walking infrastructure without systematic approach"
+        },
+        {
+          "id": "LND_045",
+          "text": "Consider both compact and traditional development patterns equally in zoning decisions.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances different development approaches without preference"
+        },
+        {
+          "id": "LND_050",
+          "text": "Maintain current mix of development patterns with equal treatment of all densities.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes neutral approach to urban form and density"
+        },
+        {
+          "id": "LND_055",
+          "text": "Create overlay zones allowing higher density development near transit stops.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Promotes location-efficient development through voluntary incentives"
+        },
+        {
+          "id": "LND_060",
+          "text": "Offer 25% density bonuses for developments achieving walkability and mixed-use criteria.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Provides meaningful incentives for climate-friendly development patterns"
+        },
+        {
+          "id": "LND_065",
+          "text": "Require minimum residential density of 15 units per acre within quarter-mile of transit stations.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable transit-supportive density targets"
+        },
+        {
+          "id": "LND_070",
+          "text": "Implement form-based code requiring pedestrian-oriented design in all commercial districts.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates comprehensive framework for walkable development"
+        },
+        {
+          "id": "LND_075",
+          "text": "Mandate mixed-use development with minimum 30 units per acre in all growth centers.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements for compact, efficient development"
+        },
+        {
+          "id": "LND_080",
+          "text": "Create car-free zones in major activity centers with comprehensive pedestrian infrastructure.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major transformation of urban mobility patterns"
+        },
+        {
+          "id": "LND_085",
+          "text": "Establish eco-districts requiring 75% of daily needs within 15-minute walk of all residences.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive approach to self-sufficient neighborhoods"
+        },
+        {
+          "id": "LND_090",
+          "text": "Require all new development to achieve net-zero transportation emissions through location and design.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to climate-optimized development"
+        },
+        {
+          "id": "LND_095",
+          "text": "Create climate-positive zones requiring development to generate more renewable energy than consumed.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to regenerative urban form"
+        },
+        {
+          "id": "LND_100",
+          "text": "Mandate comprehensive sustainable neighborhood development achieving zero-carbon operations through integrated design, density, and renewable energy by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to climate-regenerative urban development"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "natural_environment",
+        "name": "Natural Environment",
+        "description": "Urban ecosystems, biodiversity protection, and green infrastructure enhancement"
+      },
+      "items": [
+        {
+          "id": "ENV_000",
+          "text": "Remove protected status from all urban natural areas and mandate the removal of existing green infrastructure, replacing with impervious surfaces.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively degrades urban ecosystems by removing protection and destroying natural climate buffers, increasing heat island effects and reducing natural carbon sinks"
+        },
+        {
+          "id": "ENV_005",
+          "text": "Eliminate urban forestry programs and redirect all tree maintenance funds to hardscape development.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately reduces urban forest capacity to sequester carbon and provide natural cooling"
+        },
+        {
+          "id": "ENV_010",
+          "text": "Restrict all habitat corridor development and require fragmentation of existing natural areas during development.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically weakens ecosystem resilience by preventing wildlife movement and adaptation"
+        },
+        {
+          "id": "ENV_015",
+          "text": "Mandate removal of native vegetation in public spaces and replace with non-native ornamental species.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces practices that reduce biodiversity and ecosystem resilience to climate changes"
+        },
+        {
+          "id": "ENV_020",
+          "text": "Cap green space requirements at 5% of development area regardless of ecosystem value.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits natural area preservation and ecosystem services"
+        },
+        {
+          "id": "ENV_025",
+          "text": "Document existing urban tree canopy coverage without implementing protection measures.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring without preserving natural climate benefits"
+        },
+        {
+          "id": "ENV_030",
+          "text": "Allow optional preservation of mature trees during development if not conflicting with construction.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't prioritize preservation of natural carbon sinks"
+        },
+        {
+          "id": "ENV_035",
+          "text": "Conduct basic biodiversity surveys in public parks with voluntary conservation guidelines.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness of ecosystem values without requiring protection"
+        },
+        {
+          "id": "ENV_040",
+          "text": "Install interpretive signage about ecosystem services in major natural areas.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides education without active ecosystem enhancement"
+        },
+        {
+          "id": "ENV_045",
+          "text": "Consider both ecosystem services and development needs equally in land use decisions.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances natural and built environment without preference"
+        },
+        {
+          "id": "ENV_050",
+          "text": "Maintain current urban forest with one-to-one replacement of removed trees.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes neutral approach to natural resource management"
+        },
+        {
+          "id": "ENV_055",
+          "text": "Create public dashboard tracking urban ecosystem health indicators city-wide.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Promotes transparency and awareness of natural system conditions"
+        },
+        {
+          "id": "ENV_060",
+          "text": "Offer 25% density bonuses for developments that preserve significant natural areas.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Provides meaningful incentives for ecosystem protection"
+        },
+        {
+          "id": "ENV_065",
+          "text": "Require all new developments to achieve no net loss of ecosystem services through on-site preservation or mitigation.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable ecosystem protection standards"
+        },
+        {
+          "id": "ENV_070",
+          "text": "Implement green corridor network connecting all major natural areas with native vegetation.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates substantial ecosystem connectivity for climate adaptation"
+        },
+        {
+          "id": "ENV_075",
+          "text": "Mandate 40% tree canopy coverage in all neighborhoods through protection and new plantings within 5 years.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements for expanding natural climate solutions"
+        },
+        {
+          "id": "ENV_080",
+          "text": "Create biodiversity zones requiring 60% of area dedicated to enhanced natural habitat.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major investment in ecosystem enhancement"
+        },
+        {
+          "id": "ENV_085",
+          "text": "Establish comprehensive green infrastructure network achieving 75% stormwater management through natural systems.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to ecosystem-based adaptation"
+        },
+        {
+          "id": "ENV_090",
+          "text": "Require all developments to achieve net positive impact on biodiversity and ecosystem services.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive transformation to regenerative development"
+        },
+        {
+          "id": "ENV_095",
+          "text": "Create living infrastructure mandate requiring integration of ecosystems into all municipal structures and spaces.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to nature-based urban systems"
+        },
+        {
+          "id": "ENV_100",
+          "text": "Mandate comprehensive ecosystem regeneration achieving 50% increase in biodiversity and natural carbon sequestration by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to regenerative ecosystem management"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "natural_hazards",
+        "name": "Natural Hazards",
+        "description": "Disaster resilience, risk management, and climate adaptation planning"
+      },
+      "items": [
+        {
+          "id": "HZD_000",
+          "text": "Remove all climate projections from hazard mitigation planning and mandate use of historical data only for emergency preparedness.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively prevents adaptation to changing climate risks by removing forward-looking assessments from emergency planning"
+        },
+        {
+          "id": "HZD_005",
+          "text": "Eliminate funding for climate-related disaster preparedness and restrict emergency planning to conventional hazards only.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately reduces community capacity to prepare for climate-intensified disasters"
+        },
+        {
+          "id": "HZD_010",
+          "text": "Prohibit inclusion of sea level rise projections in flood zone mapping and infrastructure planning.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically ignores growing climate risks in critical planning processes"
+        },
+        {
+          "id": "HZD_015",
+          "text": "Mandate removal of climate change considerations from all emergency response protocols and training.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces outdated emergency response approaches that ignore climate impacts"
+        },
+        {
+          "id": "HZD_020",
+          "text": "Cap disaster preparedness budgets at current levels with explicit exclusion of climate adaptation measures.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits resources for climate-resilient emergency management"
+        },
+        {
+          "id": "HZD_025",
+          "text": "Document extreme weather events without implementing any climate adaptation strategies.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring without preparedness improvements"
+        },
+        {
+          "id": "HZD_030",
+          "text": "Allow optional consideration of climate projections in non-critical infrastructure planning.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't require climate-informed planning"
+        },
+        {
+          "id": "HZD_035",
+          "text": "Conduct basic climate vulnerability assessments with voluntary adaptation guidelines.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness of climate risks without requiring action"
+        },
+        {
+          "id": "HZD_040",
+          "text": "Install flood monitoring systems in major waterways without adaptation planning.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides basic risk monitoring without systematic response"
+        },
+        {
+          "id": "HZD_045",
+          "text": "Consider both historical data and climate projections equally in hazard planning.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances traditional and forward-looking risk assessment"
+        },
+        {
+          "id": "HZD_050",
+          "text": "Maintain current emergency response capabilities with equal attention to all hazard types.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes neutral approach to climate vs conventional risks"
+        },
+        {
+          "id": "HZD_055",
+          "text": "Create public dashboard showing real-time natural hazard risks and climate indicators.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Promotes transparency and awareness of evolving risks"
+        },
+        {
+          "id": "HZD_060",
+          "text": "Offer 30% matching funds for private property climate resilience improvements.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Provides meaningful incentives for adaptation measures"
+        },
+        {
+          "id": "HZD_065",
+          "text": "Require all critical infrastructure upgrades to incorporate 2050 climate projections.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable climate resilience standards"
+        },
+        {
+          "id": "HZD_070",
+          "text": "Implement comprehensive flood early warning system with automated alerts and evacuation protocols.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates robust systems for climate-related emergency response"
+        },
+        {
+          "id": "HZD_075",
+          "text": "Mandate climate risk assessments and adaptation plans for all municipal capital projects.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements for climate-resilient infrastructure"
+        },
+        {
+          "id": "HZD_080",
+          "text": "Create resilience zones requiring all new development to withstand category 5 hurricanes and 500-year floods.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major investment in climate-resilient infrastructure"
+        },
+        {
+          "id": "HZD_085",
+          "text": "Establish integrated climate resilience system combining natural infrastructure, early warning, and adaptive management.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive transformation of risk management"
+        },
+        {
+          "id": "HZD_090",
+          "text": "Require all neighborhoods to achieve specific resilience metrics for heat, flooding, and storm impacts.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to community-wide resilience"
+        },
+        {
+          "id": "HZD_095",
+          "text": "Create climate-resilient infrastructure network with redundant systems and adaptive capacity for 2100 projections.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to future-proof systems"
+        },
+        {
+          "id": "HZD_100",
+          "text": "Mandate comprehensive climate resilience achieving protection against all projected 2100 hazards through integrated infrastructure, natural systems, and community preparation by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to climate-resilient city systems"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "transport",
+        "name": "Transport",
+        "description": ""
+      },
+      "items": []
+    },
+    {
+      "domain": {
+        "id": "waste",
+        "name": "Waste",
+        "description": "Waste reduction, recycling, composting, and resilient waste management systems"
+      },
+      "items": [
+        {
+          "id": "WST_000",
+          "text": "Eliminate all municipal recycling programs and mandate single-stream waste collection with explicit prohibition of waste sorting.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively dismantles existing waste reduction infrastructure while creating barriers to sustainable waste management practices"
+        },
+        {
+          "id": "WST_005",
+          "text": "Remove all public recycling bins and reallocate recycling program funding to increase landfill capacity.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately reduces waste diversion opportunities while expanding traditional waste disposal infrastructure"
+        },
+        {
+          "id": "WST_010",
+          "text": "Restrict waste audits to annual volume measurements only, explicitly excluding composition analysis or reduction strategies.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically limits data collection that could support waste reduction initiatives"
+        },
+        {
+          "id": "WST_015",
+          "text": "Mandate all municipal facilities to use single-use disposable products in cafeterias and break rooms.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces wasteful practices in direct municipal operations"
+        },
+        {
+          "id": "WST_020",
+          "text": "Cap recycling program funding at 10% of waste management budget regardless of diversion potential.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits resources for waste reduction programs"
+        },
+        {
+          "id": "WST_025",
+          "text": "Record total waste volumes collected without implementing any reduction measures.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring without action toward improvement"
+        },
+        {
+          "id": "WST_030",
+          "text": "Allow optional recycling bins in municipal buildings when requested by department heads.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't encourage waste reduction practices"
+        },
+        {
+          "id": "WST_035",
+          "text": "Conduct basic waste audits annually with voluntary reduction suggestions for departments.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness without requiring specific actions"
+        },
+        {
+          "id": "WST_040",
+          "text": "Install recycling bins alongside trash containers in main public areas only.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides basic infrastructure without comprehensive coverage"
+        },
+        {
+          "id": "WST_045",
+          "text": "Consider both waste reduction and disposal costs equally in program planning.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances environmental and operational factors without preference"
+        },
+        {
+          "id": "WST_050",
+          "text": "Maintain current waste collection systems with equal promotion of recycling and disposal options.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides neutral support for all waste management methods"
+        },
+        {
+          "id": "WST_055",
+          "text": "Implement waste tracking systems in all municipal buildings with monthly reporting.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Enhanced monitoring encouraging voluntary improvement"
+        },
+        {
+          "id": "WST_060",
+          "text": "Offer 20% rebate on commercial waste fees for businesses achieving 40% recycling rates.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates meaningful incentives for waste reduction"
+        },
+        {
+          "id": "WST_065",
+          "text": "Require all municipal facilities to achieve 50% waste diversion through recycling and composting.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable waste reduction targets"
+        },
+        {
+          "id": "WST_070",
+          "text": "Implement RFID tracking on all waste bins to charge variable rates based on disposal volumes.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Uses technology to create direct waste reduction incentives"
+        },
+        {
+          "id": "WST_075",
+          "text": "Mandate commercial properties to achieve 60% waste diversion with phased implementation over 3 years.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements with practical timeline"
+        },
+        {
+          "id": "WST_080",
+          "text": "Establish municipal composting facility processing 75% of organic waste by 2026.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major infrastructure investment in waste reduction"
+        },
+        {
+          "id": "WST_085",
+          "text": "Require 85% waste diversion for all construction projects through reuse and recycling.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive waste reduction in major waste-generating sector"
+        },
+        {
+          "id": "WST_090",
+          "text": "Implement city-wide organic waste collection with mandatory participation and processing into renewable energy.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative program converting waste to energy"
+        },
+        {
+          "id": "WST_095",
+          "text": "Create circular economy zones requiring 95% waste diversion and material reuse by 2027.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation of waste management"
+        },
+        {
+          "id": "WST_100",
+          "text": "Mandate zero-waste operations for all municipal facilities by 2026 with required supplier participation.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to circular material management"
+        }
+      ]
+    },
+    {
+      "domain": {
+        "id": "water",
+        "name": "Water",
+        "description": "Water conservation, efficiency, treatment, and infrastructure resilience"
+      },
+      "items": [
+        {
+          "id": "WTR_000",
+          "text": "Remove all water conservation requirements and prohibit installation of water-efficient fixtures in municipal buildings while mandating standard-flow fixtures.",
+          "sentiment": 0.0,
+          "sentiment_category": "active_resistance",
+          "rationale": "Actively works against water conservation by removing existing measures and preventing efficiency improvements, directly increasing energy use for water treatment and distribution"
+        },
+        {
+          "id": "WTR_005",
+          "text": "Eliminate water usage monitoring systems and require all irrigation systems to operate on fixed schedules regardless of weather conditions.",
+          "sentiment": 0.05,
+          "sentiment_category": "active_resistance",
+          "rationale": "Deliberately promotes water waste by removing monitoring capabilities and enforcing inefficient practices"
+        },
+        {
+          "id": "WTR_010",
+          "text": "Ban rainwater harvesting systems and greywater recycling in all municipal properties.",
+          "sentiment": 0.1,
+          "sentiment_category": "active_resistance",
+          "rationale": "Systematically prevents water conservation measures that could reduce energy-intensive municipal water demand"
+        },
+        {
+          "id": "WTR_015",
+          "text": "Mandate continuous operation of decorative water features in all public spaces without recirculation systems.",
+          "sentiment": 0.15,
+          "sentiment_category": "active_resistance",
+          "rationale": "Enforces wasteful water practices that increase energy consumption for pumping and treatment"
+        },
+        {
+          "id": "WTR_020",
+          "text": "Restrict leak detection activities to visible surface water only, prohibiting proactive infrastructure monitoring.",
+          "sentiment": 0.2,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Actively limits maintenance that could prevent water and energy waste from leaking infrastructure"
+        },
+        {
+          "id": "WTR_025",
+          "text": "Record monthly water consumption data without implementing any conservation measures.",
+          "sentiment": 0.25,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Provides basic monitoring without taking steps to reduce water-related energy use"
+        },
+        {
+          "id": "WTR_030",
+          "text": "Allow optional low-flow fixture installations only during scheduled plumbing maintenance.",
+          "sentiment": 0.3,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Permits but doesn't encourage water efficiency improvements that could reduce energy consumption"
+        },
+        {
+          "id": "WTR_035",
+          "text": "Conduct annual water audits of municipal buildings with voluntary reduction targets.",
+          "sentiment": 0.35,
+          "sentiment_category": "minimal_acknowledgment",
+          "rationale": "Creates awareness of water usage patterns without requiring specific conservation actions"
+        },
+        {
+          "id": "WTR_040",
+          "text": "Install basic water meters in municipal buildings to track consumption patterns.",
+          "sentiment": 0.4,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Provides fundamental usage data without mandating efficiency improvements"
+        },
+        {
+          "id": "WTR_045",
+          "text": "Consider both water conservation and operational convenience equally in facility management.",
+          "sentiment": 0.45,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Balances efficiency with practical considerations without prioritizing either"
+        },
+        {
+          "id": "WTR_050",
+          "text": "Maintain current water infrastructure with equal focus on efficiency and traditional operations.",
+          "sentiment": 0.5,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Takes a neutral approach to water system management and efficiency"
+        },
+        {
+          "id": "WTR_055",
+          "text": "Implement real-time water consumption monitoring with public dashboard displays.",
+          "sentiment": 0.55,
+          "sentiment_category": "balanced_approach",
+          "rationale": "Promotes transparency and awareness that can drive voluntary conservation"
+        },
+        {
+          "id": "WTR_060",
+          "text": "Offer 25% rebates for installation of water-efficient irrigation systems in public spaces.",
+          "sentiment": 0.6,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Creates meaningful incentives for reducing outdoor water consumption"
+        },
+        {
+          "id": "WTR_065",
+          "text": "Require all new municipal buildings to achieve 30% water reduction compared to baseline.",
+          "sentiment": 0.65,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Sets mandatory but achievable water conservation targets"
+        },
+        {
+          "id": "WTR_070",
+          "text": "Install smart water meters with leak detection in all municipal facilities within 2 years.",
+          "sentiment": 0.7,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Deploys technology to actively prevent water waste"
+        },
+        {
+          "id": "WTR_075",
+          "text": "Mandate water recycling systems in all municipal buildings larger than 10,000 square feet.",
+          "sentiment": 0.75,
+          "sentiment_category": "supportive_measures",
+          "rationale": "Strong requirements for water reuse in larger facilities"
+        },
+        {
+          "id": "WTR_080",
+          "text": "Implement district-scale water recycling systems treating 50% of municipal wastewater for reuse.",
+          "sentiment": 0.8,
+          "sentiment_category": "proactive_action",
+          "rationale": "Major infrastructure investment in water conservation"
+        },
+        {
+          "id": "WTR_085",
+          "text": "Require 75% reduction in potable water use through efficiency and recycling in all municipal operations.",
+          "sentiment": 0.85,
+          "sentiment_category": "proactive_action",
+          "rationale": "Comprehensive transformation of water management practices"
+        },
+        {
+          "id": "WTR_090",
+          "text": "Create water-neutral zones requiring 100% on-site water recycling for new developments.",
+          "sentiment": 0.9,
+          "sentiment_category": "proactive_action",
+          "rationale": "Transformative approach to water self-sufficiency"
+        },
+        {
+          "id": "WTR_095",
+          "text": "Establish closed-loop water systems with 95% water recycling in all municipal facilities by 2027.",
+          "sentiment": 0.95,
+          "sentiment_category": "proactive_action",
+          "rationale": "Near-complete transformation to circular water management"
+        },
+        {
+          "id": "WTR_100",
+          "text": "Mandate net-zero water consumption for all municipal operations through conservation, recycling, and rainwater harvesting by 2026.",
+          "sentiment": 1.0,
+          "sentiment_category": "proactive_action",
+          "rationale": "Complete transformation to sustainable water management"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "agent_id": 1,
+    "profile": {
+      "Sex": "Female",
+      "Age": "25 - 29",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.09
+  },
+  {
+    "agent_id": 2,
+    "profile": {
+      "Sex": "Female",
+      "Age": "35 - 39",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.2
+  },
+  {
+    "agent_id": 3,
+    "profile": {
+      "Sex": "Male",
+      "Age": "70 - 74",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.25
+  },
+  {
+    "agent_id": 4,
+    "profile": {
+      "Sex": "Female",
+      "Age": "25 - 29",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.56
+  },
+  {
+    "agent_id": 5,
+    "profile": {
+      "Sex": "Female",
+      "Age": "20 - 24",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.2
+  },
+  {
+    "agent_id": 6,
+    "profile": {
+      "Sex": "Female",
+      "Age": "60 - 64",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.74
+  },
+  {
+    "agent_id": 7,
+    "profile": {
+      "Sex": "Male",
+      "Age": "15 - 19",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.32
+  },
+  {
+    "agent_id": 8,
+    "profile": {
+      "Sex": "Male",
+      "Age": "40 - 44",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.98
+  },
+  {
+    "agent_id": 9,
+    "profile": {
+      "Sex": "Female",
+      "Age": "70 - 74",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.13
+  },
+  {
+    "agent_id": 10,
+    "profile": {
+      "Sex": "Female",
+      "Age": "60 - 64",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.55
+  },
+  {
+    "agent_id": 11,
+    "profile": {
+      "Sex": "Male",
+      "Age": "70 - 74",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.22
+  },
+  {
+    "agent_id": 12,
+    "profile": {
+      "Sex": "Female",
+      "Age": "25 - 29",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.88
+  },
+  {
+    "agent_id": 13,
+    "profile": {
+      "Sex": "Male",
+      "Age": "40 - 44",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.62
+  },
+  {
+    "agent_id": 14,
+    "profile": {
+      "Sex": "Male",
+      "Age": "30 - 34",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.73
+  },
+  {
+    "agent_id": 15,
+    "profile": {
+      "Sex": "Male",
+      "Age": "75 - 79",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.2
+  },
+  {
+    "agent_id": 16,
+    "profile": {
+      "Sex": "Male",
+      "Age": "50 - 54",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.09
+  },
+  {
+    "agent_id": 17,
+    "profile": {
+      "Sex": "Female",
+      "Age": "20 - 24",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.79
+  },
+  {
+    "agent_id": 18,
+    "profile": {
+      "Sex": "Male",
+      "Age": "20 - 24",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.85
+  },
+  {
+    "agent_id": 19,
+    "profile": {
+      "Sex": "Female",
+      "Age": "75 - 79",
+      "Educational attainment": "ISCED 2011, Unknown"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.35
+  },
+  {
+    "agent_id": 20,
+    "profile": {
+      "Sex": "Female",
+      "Age": "80 - 84",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.7
+  },
+  {
+    "agent_id": 21,
+    "profile": {
+      "Sex": "Female",
+      "Age": "35 - 39",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.46
+  },
+  {
+    "agent_id": 22,
+    "profile": {
+      "Sex": "Female",
+      "Age": "15 - 19",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.91
+  },
+  {
+    "agent_id": 23,
+    "profile": {
+      "Sex": "Male",
+      "Age": "45 - 49",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.72
+  },
+  {
+    "agent_id": 24,
+    "profile": {
+      "Sex": "Female",
+      "Age": "50 - 54",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.12
+  },
+  {
+    "agent_id": 25,
+    "profile": {
+      "Sex": "Female",
+      "Age": "35 - 39",
+      "Educational attainment": "ISCED 2011, level 2 \u2013 Lower secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.34
+  },
+  {
+    "agent_id": 26,
+    "profile": {
+      "Sex": "Male",
+      "Age": "30 - 34",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.82
+  },
+  {
+    "agent_id": 27,
+    "profile": {
+      "Sex": "Female",
+      "Age": "65 - 69",
+      "Educational attainment": "ISCED 2011, level 2 \u2013 Lower secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.04
+  },
+  {
+    "agent_id": 28,
+    "profile": {
+      "Sex": "Female",
+      "Age": "50 - 54",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.48
+  },
+  {
+    "agent_id": 29,
+    "profile": {
+      "Sex": "Female",
+      "Age": "70 - 74",
+      "Educational attainment": "ISCED 2011, level 5 \u2013 Short-cycle tertiary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.45
+  },
+  {
+    "agent_id": 30,
+    "profile": {
+      "Sex": "Female",
+      "Age": "35 - 39",
+      "Educational attainment": "ISCED 2011, level 7 \u2013 Master\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.66
+  },
+  {
+    "agent_id": 31,
+    "profile": {
+      "Sex": "Female",
+      "Age": "25 - 29",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.83
+  },
+  {
+    "agent_id": 32,
+    "profile": {
+      "Sex": "Male",
+      "Age": "65 - 69",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.88
+  },
+  {
+    "agent_id": 33,
+    "profile": {
+      "Sex": "Female",
+      "Age": "70 - 74",
+      "Educational attainment": "ISCED 2011, No education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.01
+  },
+  {
+    "agent_id": 34,
+    "profile": {
+      "Sex": "Female",
+      "Age": "55 - 59",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.19
+  },
+  {
+    "agent_id": 35,
+    "profile": {
+      "Sex": "Male",
+      "Age": "15 - 19",
+      "Educational attainment": "ISCED 2011, level 3 \u2013 Upper secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.64
+  },
+  {
+    "agent_id": 36,
+    "profile": {
+      "Sex": "Male",
+      "Age": "15 - 19",
+      "Educational attainment": "ISCED 2011, level 2 \u2013 Lower secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.67
+  },
+  {
+    "agent_id": 37,
+    "profile": {
+      "Sex": "Male",
+      "Age": "55 - 59",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.22
+  },
+  {
+    "agent_id": 38,
+    "profile": {
+      "Sex": "Female",
+      "Age": "50 - 54",
+      "Educational attainment": "ISCED 2011, level 2 \u2013 Lower secondary education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.91
+  },
+  {
+    "agent_id": 39,
+    "profile": {
+      "Sex": "Female",
+      "Age": "85 - 89",
+      "Educational attainment": "ISCED 2011, No education"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.44
+  },
+  {
+    "agent_id": 40,
+    "profile": {
+      "Sex": "Male",
+      "Age": "25 - 29",
+      "Educational attainment": "ISCED 2011, level 6 \u2013 Bachelor\u2019s or equivalent level"
+    },
+    "topic": "Climate change policy",
+    "topic_position": 0.74
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "name": "business",
+  "description": "Economic development, green business practices, and sustainable commerce initiatives",
+  "proposals": [
+    {
+      "text": "Remove all environmental criteria from municipal procurement and explicitly prohibit consideration of sustainability in business licensing or permitting processes.",
+      "sentiment": 0.0,
+      "rationale": "Actively prevents integration of climate considerations in business operations by removing existing frameworks and blocking new initiatives"
+    },
+    {
+      "text": "Eliminate green business certification programs and redirect all sustainable business development funds to traditional economic growth initiatives.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately dismantles support systems for sustainable business practices while reinforcing traditional models"
+    },
+    {
+      "text": "Require business improvement districts to exclude all climate-related projects from their development plans.",
+      "sentiment": 0.1,
+      "rationale": "Systematically prevents community-level business climate initiatives"
+    },
+    {
+      "text": "Mandate that business assistance programs prioritize rapid development over any environmental considerations.",
+      "sentiment": 0.15,
+      "rationale": "Enforces business practices that ignore climate impacts"
+    },
+    {
+      "text": "Cap sustainable business training programs at 5% of economic development budget regardless of demand.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits resources for business climate adaptation"
+    },
+    {
+      "text": "Record business sector emissions data without implementing any reduction incentives or requirements.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring without encouraging improvement"
+    },
+    {
+      "text": "Allow optional sustainability sections in business license applications without affecting approval decisions.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't encourage business climate initiatives"
+    },
+    {
+      "text": "Conduct annual business climate impact surveys with voluntary reporting mechanisms.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness without requiring action"
+    },
+    {
+      "text": "Provide basic green business guidelines in standard business welcome packets.",
+      "sentiment": 0.4,
+      "rationale": "Offers fundamental information without meaningful support"
+    },
+    {
+      "text": "Consider both environmental and traditional economic metrics in business development programs.",
+      "sentiment": 0.45,
+      "rationale": "Balances climate and economic factors without preference"
+    },
+    {
+      "text": "Maintain current mix of traditional and green business support services with equal funding.",
+      "sentiment": 0.5,
+      "rationale": "Takes neutral approach to business sustainability"
+    },
+    {
+      "text": "Create public recognition program for businesses achieving voluntary sustainability targets.",
+      "sentiment": 0.55,
+      "rationale": "Encourages climate action through positive recognition"
+    },
+    {
+      "text": "Offer 15% reduction in business license fees for companies meeting basic sustainability criteria.",
+      "sentiment": 0.6,
+      "rationale": "Provides modest incentives for climate-friendly practices"
+    },
+    {
+      "text": "Require all businesses over 50 employees to submit annual carbon footprint reports with reduction plans.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable climate accountability measures"
+    },
+    {
+      "text": "Implement green business certification program with 20% tax incentives for certified companies.",
+      "sentiment": 0.7,
+      "rationale": "Creates substantial benefits for verified climate action"
+    },
+    {
+      "text": "Mandate all businesses with over $1M revenue to achieve 30% emissions reduction within 5 years.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements with specific timeline"
+    },
+    {
+      "text": "Create green business zones with 50% tax reduction for companies achieving zero-waste operations.",
+      "sentiment": 0.8,
+      "rationale": "Major incentives for transformative business practices"
+    },
+    {
+      "text": "Establish circular economy business district requiring 75% waste reduction and renewable energy use.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive transformation of business operations"
+    },
+    {
+      "text": "Require all businesses to achieve carbon neutrality through verified reductions and local offsets by 2028.",
+      "sentiment": 0.9,
+      "rationale": "Transformative approach to business climate impact"
+    },
+    {
+      "text": "Create climate-positive business certification requiring 110% carbon reduction through direct and community actions.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to regenerative business models"
+    },
+    {
+      "text": "Mandate all businesses to implement comprehensive climate action plans achieving carbon negative operations through direct reductions and community benefits by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to climate-regenerative business sector"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "health",
+  "description": "Public health measures addressing climate impacts, air quality, and community resilience",
+  "proposals": [
+    {
+      "text": "Dismantle all municipal air quality monitoring stations and explicitly prohibit the collection of climate-related health data in public health assessments.",
+      "sentiment": 0.0,
+      "rationale": "Actively prevents the monitoring and understanding of climate-related health impacts by removing existing infrastructure and blocking data collection"
+    },
+    {
+      "text": "Remove heat emergency response protocols from city operations and eliminate funding for cooling centers.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately reduces community resilience to climate-related health emergencies by eliminating critical response infrastructure"
+    },
+    {
+      "text": "Restrict public health reporting to exclude any mention of climate-related illnesses or extreme weather impacts.",
+      "sentiment": 0.1,
+      "rationale": "Systematically prevents acknowledgment of climate-health connections in public health management"
+    },
+    {
+      "text": "Mandate the removal of tree cover near medical facilities to prioritize parking expansion.",
+      "sentiment": 0.15,
+      "rationale": "Enforces practices that worsen both urban heat island effects and air quality around sensitive facilities"
+    },
+    {
+      "text": "Cap emergency response planning at current levels with explicit exclusion of climate-related scenario training.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits preparation for climate-related health emergencies"
+    },
+    {
+      "text": "Document heat-related emergency calls without implementing any preventive measures.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring of climate health impacts without acting to address them"
+    },
+    {
+      "text": "Allow optional installation of air quality sensors when other health monitoring equipment is being replaced.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't prioritize climate-health monitoring infrastructure"
+    },
+    {
+      "text": "Conduct basic summer heat risk assessments with voluntary guidance for vulnerable populations.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness of climate health risks without requiring protective actions"
+    },
+    {
+      "text": "Install temperature monitoring stations in major public spaces without response protocols.",
+      "sentiment": 0.4,
+      "rationale": "Provides fundamental climate-health data without mandating responses"
+    },
+    {
+      "text": "Consider both traditional health metrics and climate-related health impacts in program planning.",
+      "sentiment": 0.45,
+      "rationale": "Balances conventional and climate-related health considerations equally"
+    },
+    {
+      "text": "Maintain current health monitoring systems with equal attention to traditional and climate-related health risks.",
+      "sentiment": 0.5,
+      "rationale": "Takes a neutral approach to climate health integration"
+    },
+    {
+      "text": "Create public dashboards showing real-time air quality and heat index data across the city.",
+      "sentiment": 0.55,
+      "rationale": "Promotes transparency and awareness of climate-related health conditions"
+    },
+    {
+      "text": "Establish mobile cooling centers that deploy to high-risk neighborhoods during heat waves.",
+      "sentiment": 0.6,
+      "rationale": "Creates proactive response to climate-related health risks"
+    },
+    {
+      "text": "Require all municipal healthcare facilities to develop climate adaptation plans for extreme weather events.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable climate resilience targets for health facilities"
+    },
+    {
+      "text": "Install advanced air quality monitoring networks in all environmental justice communities.",
+      "sentiment": 0.7,
+      "rationale": "Deploys technology to protect vulnerable populations from climate impacts"
+    },
+    {
+      "text": "Mandate climate-resilient design for all new healthcare facilities with backup renewable power.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements for climate-resilient health infrastructure"
+    },
+    {
+      "text": "Implement comprehensive heat action plan with automated early warning system and staged response protocols.",
+      "sentiment": 0.8,
+      "rationale": "Major investment in climate-health emergency response systems"
+    },
+    {
+      "text": "Create a climate-health rapid response team with dedicated funding and authority to implement emergency measures.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive transformation of emergency health services for climate resilience"
+    },
+    {
+      "text": "Establish neighborhood resilience hubs with advanced air filtration and renewable-powered cooling in all vulnerable communities.",
+      "sentiment": 0.9,
+      "rationale": "Transformative approach to community climate-health protection"
+    },
+    {
+      "text": "Deploy city-wide network of smart environmental sensors with AI-powered health risk prediction and automated response systems.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to proactive climate-health management"
+    },
+    {
+      "text": "Mandate comprehensive climate-health protection systems in all public spaces, including air quality management, cooling infrastructure, and emergency response protocols by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to climate-resilient public health systems"
+    }
+  ]
+}

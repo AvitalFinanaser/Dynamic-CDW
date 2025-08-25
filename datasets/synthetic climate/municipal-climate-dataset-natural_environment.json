@@ -1,0 +1,111 @@
+{
+  "name": "natural_environment",
+  "description": "Urban ecosystems, biodiversity protection, and green infrastructure enhancement",
+  "proposals": [
+    {
+      "text": "Remove protected status from all urban natural areas and mandate the removal of existing green infrastructure, replacing with impervious surfaces.",
+      "sentiment": 0.0,
+      "rationale": "Actively degrades urban ecosystems by removing protection and destroying natural climate buffers, increasing heat island effects and reducing natural carbon sinks"
+    },
+    {
+      "text": "Eliminate urban forestry programs and redirect all tree maintenance funds to hardscape development.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately reduces urban forest capacity to sequester carbon and provide natural cooling"
+    },
+    {
+      "text": "Restrict all habitat corridor development and require fragmentation of existing natural areas during development.",
+      "sentiment": 0.1,
+      "rationale": "Systematically weakens ecosystem resilience by preventing wildlife movement and adaptation"
+    },
+    {
+      "text": "Mandate removal of native vegetation in public spaces and replace with non-native ornamental species.",
+      "sentiment": 0.15,
+      "rationale": "Enforces practices that reduce biodiversity and ecosystem resilience to climate changes"
+    },
+    {
+      "text": "Cap green space requirements at 5% of development area regardless of ecosystem value.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits natural area preservation and ecosystem services"
+    },
+    {
+      "text": "Document existing urban tree canopy coverage without implementing protection measures.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring without preserving natural climate benefits"
+    },
+    {
+      "text": "Allow optional preservation of mature trees during development if not conflicting with construction.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't prioritize preservation of natural carbon sinks"
+    },
+    {
+      "text": "Conduct basic biodiversity surveys in public parks with voluntary conservation guidelines.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness of ecosystem values without requiring protection"
+    },
+    {
+      "text": "Install interpretive signage about ecosystem services in major natural areas.",
+      "sentiment": 0.4,
+      "rationale": "Provides education without active ecosystem enhancement"
+    },
+    {
+      "text": "Consider both ecosystem services and development needs equally in land use decisions.",
+      "sentiment": 0.45,
+      "rationale": "Balances natural and built environment without preference"
+    },
+    {
+      "text": "Maintain current urban forest with one-to-one replacement of removed trees.",
+      "sentiment": 0.5,
+      "rationale": "Takes neutral approach to natural resource management"
+    },
+    {
+      "text": "Create public dashboard tracking urban ecosystem health indicators city-wide.",
+      "sentiment": 0.55,
+      "rationale": "Promotes transparency and awareness of natural system conditions"
+    },
+    {
+      "text": "Offer 25% density bonuses for developments that preserve significant natural areas.",
+      "sentiment": 0.6,
+      "rationale": "Provides meaningful incentives for ecosystem protection"
+    },
+    {
+      "text": "Require all new developments to achieve no net loss of ecosystem services through on-site preservation or mitigation.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable ecosystem protection standards"
+    },
+    {
+      "text": "Implement green corridor network connecting all major natural areas with native vegetation.",
+      "sentiment": 0.7,
+      "rationale": "Creates substantial ecosystem connectivity for climate adaptation"
+    },
+    {
+      "text": "Mandate 40% tree canopy coverage in all neighborhoods through protection and new plantings within 5 years.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements for expanding natural climate solutions"
+    },
+    {
+      "text": "Create biodiversity zones requiring 60% of area dedicated to enhanced natural habitat.",
+      "sentiment": 0.8,
+      "rationale": "Major investment in ecosystem enhancement"
+    },
+    {
+      "text": "Establish comprehensive green infrastructure network achieving 75% stormwater management through natural systems.",
+      "sentiment": 0.85,
+      "rationale": "Transformative approach to ecosystem-based adaptation"
+    },
+    {
+      "text": "Require all developments to achieve net positive impact on biodiversity and ecosystem services.",
+      "sentiment": 0.9,
+      "rationale": "Comprehensive transformation to regenerative development"
+    },
+    {
+      "text": "Create living infrastructure mandate requiring integration of ecosystems into all municipal structures and spaces.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to nature-based urban systems"
+    },
+    {
+      "text": "Mandate comprehensive ecosystem regeneration achieving 50% increase in biodiversity and natural carbon sequestration by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to regenerative ecosystem management"
+    }
+  ]
+}

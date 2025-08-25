@@ -1,0 +1,111 @@
+{
+  "name": "water",
+  "description": "Water conservation, efficiency, treatment, and infrastructure resilience",
+  "proposals": [
+    {
+      "text": "Remove all water conservation requirements and prohibit installation of water-efficient fixtures in municipal buildings while mandating standard-flow fixtures.",
+      "sentiment": 0.0,
+      "rationale": "Actively works against water conservation by removing existing measures and preventing efficiency improvements, directly increasing energy use for water treatment and distribution"
+    },
+    {
+      "text": "Eliminate water usage monitoring systems and require all irrigation systems to operate on fixed schedules regardless of weather conditions.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately promotes water waste by removing monitoring capabilities and enforcing inefficient practices"
+    },
+    {
+      "text": "Ban rainwater harvesting systems and greywater recycling in all municipal properties.",
+      "sentiment": 0.1,
+      "rationale": "Systematically prevents water conservation measures that could reduce energy-intensive municipal water demand"
+    },
+    {
+      "text": "Mandate continuous operation of decorative water features in all public spaces without recirculation systems.",
+      "sentiment": 0.15,
+      "rationale": "Enforces wasteful water practices that increase energy consumption for pumping and treatment"
+    },
+    {
+      "text": "Restrict leak detection activities to visible surface water only, prohibiting proactive infrastructure monitoring.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits maintenance that could prevent water and energy waste from leaking infrastructure"
+    },
+    {
+      "text": "Record monthly water consumption data without implementing any conservation measures.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring without taking steps to reduce water-related energy use"
+    },
+    {
+      "text": "Allow optional low-flow fixture installations only during scheduled plumbing maintenance.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't encourage water efficiency improvements that could reduce energy consumption"
+    },
+    {
+      "text": "Conduct annual water audits of municipal buildings with voluntary reduction targets.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness of water usage patterns without requiring specific conservation actions"
+    },
+    {
+      "text": "Install basic water meters in municipal buildings to track consumption patterns.",
+      "sentiment": 0.4,
+      "rationale": "Provides fundamental usage data without mandating efficiency improvements"
+    },
+    {
+      "text": "Consider both water conservation and operational convenience equally in facility management.",
+      "sentiment": 0.45,
+      "rationale": "Balances efficiency with practical considerations without prioritizing either"
+    },
+    {
+      "text": "Maintain current water infrastructure with equal focus on efficiency and traditional operations.",
+      "sentiment": 0.5,
+      "rationale": "Takes a neutral approach to water system management and efficiency"
+    },
+    {
+      "text": "Implement real-time water consumption monitoring with public dashboard displays.",
+      "sentiment": 0.55,
+      "rationale": "Promotes transparency and awareness that can drive voluntary conservation"
+    },
+    {
+      "text": "Offer 25% rebates for installation of water-efficient irrigation systems in public spaces.",
+      "sentiment": 0.6,
+      "rationale": "Creates meaningful incentives for reducing outdoor water consumption"
+    },
+    {
+      "text": "Require all new municipal buildings to achieve 30% water reduction compared to baseline.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable water conservation targets"
+    },
+    {
+      "text": "Install smart water meters with leak detection in all municipal facilities within 2 years.",
+      "sentiment": 0.7,
+      "rationale": "Deploys technology to actively prevent water waste"
+    },
+    {
+      "text": "Mandate water recycling systems in all municipal buildings larger than 10,000 square feet.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements for water reuse in larger facilities"
+    },
+    {
+      "text": "Implement district-scale water recycling systems treating 50% of municipal wastewater for reuse.",
+      "sentiment": 0.8,
+      "rationale": "Major infrastructure investment in water conservation"
+    },
+    {
+      "text": "Require 75% reduction in potable water use through efficiency and recycling in all municipal operations.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive transformation of water management practices"
+    },
+    {
+      "text": "Create water-neutral zones requiring 100% on-site water recycling for new developments.",
+      "sentiment": 0.9,
+      "rationale": "Transformative approach to water self-sufficiency"
+    },
+    {
+      "text": "Establish closed-loop water systems with 95% water recycling in all municipal facilities by 2027.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to circular water management"
+    },
+    {
+      "text": "Mandate net-zero water consumption for all municipal operations through conservation, recycling, and rainwater harvesting by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to sustainable water management"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "waste",
+  "description": "Waste reduction, recycling, composting, and resilient waste management systems",
+  "proposals": [
+    {
+      "text": "Eliminate all municipal recycling programs and mandate single-stream waste collection with explicit prohibition of waste sorting.",
+      "sentiment": 0.0,
+      "rationale": "Actively dismantles existing waste reduction infrastructure while creating barriers to sustainable waste management practices"
+    },
+    {
+      "text": "Remove all public recycling bins and reallocate recycling program funding to increase landfill capacity.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately reduces waste diversion opportunities while expanding traditional waste disposal infrastructure"
+    },
+    {
+      "text": "Restrict waste audits to annual volume measurements only, explicitly excluding composition analysis or reduction strategies.",
+      "sentiment": 0.1,
+      "rationale": "Systematically limits data collection that could support waste reduction initiatives"
+    },
+    {
+      "text": "Mandate all municipal facilities to use single-use disposable products in cafeterias and break rooms.",
+      "sentiment": 0.15,
+      "rationale": "Enforces wasteful practices in direct municipal operations"
+    },
+    {
+      "text": "Cap recycling program funding at 10% of waste management budget regardless of diversion potential.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits resources for waste reduction programs"
+    },
+    {
+      "text": "Record total waste volumes collected without implementing any reduction measures.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring without action toward improvement"
+    },
+    {
+      "text": "Allow optional recycling bins in municipal buildings when requested by department heads.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't encourage waste reduction practices"
+    },
+    {
+      "text": "Conduct basic waste audits annually with voluntary reduction suggestions for departments.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness without requiring specific actions"
+    },
+    {
+      "text": "Install recycling bins alongside trash containers in main public areas only.",
+      "sentiment": 0.4,
+      "rationale": "Provides basic infrastructure without comprehensive coverage"
+    },
+    {
+      "text": "Consider both waste reduction and disposal costs equally in program planning.",
+      "sentiment": 0.45,
+      "rationale": "Balances environmental and operational factors without preference"
+    },
+    {
+      "text": "Maintain current waste collection systems with equal promotion of recycling and disposal options.",
+      "sentiment": 0.5,
+      "rationale": "Provides neutral support for all waste management methods"
+    },
+    {
+      "text": "Implement waste tracking systems in all municipal buildings with monthly reporting.",
+      "sentiment": 0.55,
+      "rationale": "Enhanced monitoring encouraging voluntary improvement"
+    },
+    {
+      "text": "Offer 20% rebate on commercial waste fees for businesses achieving 40% recycling rates.",
+      "sentiment": 0.6,
+      "rationale": "Creates meaningful incentives for waste reduction"
+    },
+    {
+      "text": "Require all municipal facilities to achieve 50% waste diversion through recycling and composting.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable waste reduction targets"
+    },
+    {
+      "text": "Implement RFID tracking on all waste bins to charge variable rates based on disposal volumes.",
+      "sentiment": 0.7,
+      "rationale": "Uses technology to create direct waste reduction incentives"
+    },
+    {
+      "text": "Mandate commercial properties to achieve 60% waste diversion with phased implementation over 3 years.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements with practical timeline"
+    },
+    {
+      "text": "Establish municipal composting facility processing 75% of organic waste by 2026.",
+      "sentiment": 0.8,
+      "rationale": "Major infrastructure investment in waste reduction"
+    },
+    {
+      "text": "Require 85% waste diversion for all construction projects through reuse and recycling.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive waste reduction in major waste-generating sector"
+    },
+    {
+      "text": "Implement city-wide organic waste collection with mandatory participation and processing into renewable energy.",
+      "sentiment": 0.9,
+      "rationale": "Transformative program converting waste to energy"
+    },
+    {
+      "text": "Create circular economy zones requiring 95% waste diversion and material reuse by 2027.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation of waste management"
+    },
+    {
+      "text": "Mandate zero-waste operations for all municipal facilities by 2026 with required supplier participation.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to circular material management"
+    }
+  ]
+}

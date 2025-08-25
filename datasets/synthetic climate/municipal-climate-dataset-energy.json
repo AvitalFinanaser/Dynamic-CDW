@@ -1,0 +1,111 @@
+{
+  "name": "energy",
+  "description": "Energy generation, distribution, efficiency, and resilience",
+  "proposals": [
+    {
+      "text": "Prohibit any new renewable energy installations within city limits and mandate coal-based backup generators for all municipal facilities.",
+      "sentiment": 0.0,
+      "rationale": "Actively blocks renewable energy adoption and mandates fossil fuel use"
+    },
+    {
+      "text": "Remove all solar panel permits from municipal buildings and prohibit new renewable energy project applications.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately dismantles existing renewable infrastructure"
+    },
+    {
+      "text": "Require all municipal energy contracts to prioritize lowest cost regardless of source, with explicit exclusion of renewable premium payments.",
+      "sentiment": 0.1,
+      "rationale": "Systematically disadvantages clean energy options"
+    },
+    {
+      "text": "Mandate that all emergency power systems must use diesel generators without renewable alternatives.",
+      "sentiment": 0.15,
+      "rationale": "Enforces fossil fuel dependency in critical systems"
+    },
+    {
+      "text": "Cap renewable energy installations at 5% of municipal power consumption and prohibit energy storage systems.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits clean energy expansion"
+    },
+    {
+      "text": "Monitor municipal energy consumption patterns without implementing any efficiency measures.",
+      "sentiment": 0.25,
+      "rationale": "Basic awareness without action"
+    },
+    {
+      "text": "Allow optional renewable energy installations only when grid upgrades are already planned.",
+      "sentiment": 0.3,
+      "rationale": "Passive acceptance of renewables when convenient"
+    },
+    {
+      "text": "Document renewable energy potential of municipal properties without installation requirements.",
+      "sentiment": 0.35,
+      "rationale": "Basic assessment without implementation"
+    },
+    {
+      "text": "Install energy monitoring displays in public buildings without consumption reduction targets.",
+      "sentiment": 0.4,
+      "rationale": "Creates awareness without requiring changes"
+    },
+    {
+      "text": "Consider both renewable and conventional energy sources equally in procurement decisions.",
+      "sentiment": 0.45,
+      "rationale": "Balanced consideration without preference"
+    },
+    {
+      "text": "Maintain current energy mix with gradual adoption of renewables based on market prices.",
+      "sentiment": 0.5,
+      "rationale": "Neutral approach following market trends"
+    },
+    {
+      "text": "Create a public dashboard showing real-time municipal renewable energy generation.",
+      "sentiment": 0.55,
+      "rationale": "Transparency promoting voluntary action"
+    },
+    {
+      "text": "Offer 15% grant funding for new commercial solar installations up to 100kW.",
+      "sentiment": 0.6,
+      "rationale": "Modest incentives for renewable adoption"
+    },
+    {
+      "text": "Require 30% renewable energy in municipal power purchase agreements by 2025.",
+      "sentiment": 0.65,
+      "rationale": "Significant but measured clean energy commitment"
+    },
+    {
+      "text": "Install solar panels on 50% of suitable municipal rooftops within 4 years.",
+      "sentiment": 0.7,
+      "rationale": "Substantial renewable infrastructure development"
+    },
+    {
+      "text": "Mandate all new municipal facilities to include minimum 50kW renewable generation capacity.",
+      "sentiment": 0.75,
+      "rationale": "Strong clean energy requirement with specific metrics"
+    },
+    {
+      "text": "Implement community solar projects providing 40% of residential power needs by 2026.",
+      "sentiment": 0.8,
+      "rationale": "Major renewable energy infrastructure commitment"
+    },
+    {
+      "text": "Establish municipal micro-grids with 75% renewable supply and battery storage.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive clean energy system transformation"
+    },
+    {
+      "text": "Require 90% renewable energy for all municipal operations by 2028.",
+      "sentiment": 0.9,
+      "rationale": "Aggressive clean energy transition"
+    },
+    {
+      "text": "Create a municipal utility committed to 100% renewable energy with storage by 2027.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete energy system transformation"
+    },
+    {
+      "text": "Mandate 100% renewable energy for all municipal operations with distributed storage and smart grid integration by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to clean energy systems"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "building",
+  "description": "Energy and water consumption in buildings, green building standards, weather resilience",
+  "proposals": [
+    {
+      "text": "Mandate all new municipal buildings to use traditional HVAC systems and explicitly prohibit energy efficiency considerations in procurement.",
+      "sentiment": 0.0,
+      "rationale": "Actively opposes and prohibits energy efficiency measures"
+    },
+    {
+      "text": "Remove all existing green building incentives and require standard energy systems regardless of efficiency ratings.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately dismantles existing environmental standards"
+    },
+    {
+      "text": "Cap building inspections for energy efficiency at 10 minutes maximum and require approval if basic safety codes are met.",
+      "sentiment": 0.1,
+      "rationale": "Creates systematic barriers to efficiency implementation"
+    },
+    {
+      "text": "Mandate fixed temperature settings in all buildings year-round without adjustment for occupancy or seasons.",
+      "sentiment": 0.15,
+      "rationale": "Enforces energy-wasteful practices"
+    },
+    {
+      "text": "Restrict solar panel installations to ground-level only, prohibiting rooftop installations in all zones.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits renewable energy adoption"
+    },
+    {
+      "text": "Record basic energy usage in municipal buildings annually with no requirement to act on findings.",
+      "sentiment": 0.25,
+      "rationale": "Minimal acknowledgment without actionable impact"
+    },
+    {
+      "text": "Allow optional energy efficiency upgrades only during already planned renovations.",
+      "sentiment": 0.3,
+      "rationale": "Passive acceptance of efficiency when convenient"
+    },
+    {
+      "text": "Require simple energy audits for new construction with no minimum performance standards.",
+      "sentiment": 0.35,
+      "rationale": "Basic acknowledgment without enforcement"
+    },
+    {
+      "text": "Install basic energy monitoring systems in municipal buildings without mandating data utilization.",
+      "sentiment": 0.4,
+      "rationale": "Creates awareness without requiring action"
+    },
+    {
+      "text": "Consider both energy efficiency and traditional cost metrics equally in building decisions.",
+      "sentiment": 0.45,
+      "rationale": "Balanced consideration without preference"
+    },
+    {
+      "text": "Maintain current industry-standard energy codes for all new municipal buildings.",
+      "sentiment": 0.5,
+      "rationale": "Meets minimum requirements without exceeding them"
+    },
+    {
+      "text": "Implement public energy rating disclosure with voluntary improvement targets.",
+      "sentiment": 0.55,
+      "rationale": "Creates transparency with market-driven incentives"
+    },
+    {
+      "text": "Offer 10% tax reduction for buildings achieving LEED certification at any level.",
+      "sentiment": 0.6,
+      "rationale": "Positive encouragement with limited investment"
+    },
+    {
+      "text": "Require all new municipal buildings to achieve LEED Silver certification minimum.",
+      "sentiment": 0.65,
+      "rationale": "Mandatory but moderate environmental standards"
+    },
+    {
+      "text": "Install smart meters and automated energy management in all buildings over 10,000 square feet.",
+      "sentiment": 0.7,
+      "rationale": "Proactive efficiency management with specific requirements"
+    },
+    {
+      "text": "Mandate solar-ready roofs and EV charging infrastructure in all new construction.",
+      "sentiment": 0.75,
+      "rationale": "Forward-looking infrastructure requirements"
+    },
+    {
+      "text": "Require 40% energy reduction in all municipal buildings within 5 years.",
+      "sentiment": 0.8,
+      "rationale": "Aggressive efficiency targets with timeline"
+    },
+    {
+      "text": "Mandate net-zero energy certification for all new construction with on-site generation.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive sustainability requirement"
+    },
+    {
+      "text": "Require 75% energy reduction in existing buildings through deep retrofits by 2030.",
+      "sentiment": 0.9,
+      "rationale": "Transformative efficiency requirement"
+    },
+    {
+      "text": "Mandate carbon-negative operations for all municipal buildings by 2028.",
+      "sentiment": 0.95,
+      "rationale": "Maximum climate action with specific timeline"
+    },
+    {
+      "text": "Require all buildings over 5,000 square feet to achieve net-zero carbon operations with on-site renewables by 2027.",
+      "sentiment": 1.0,
+      "rationale": "Comprehensive climate-first approach with deadline"
+    }
+  ]
+}

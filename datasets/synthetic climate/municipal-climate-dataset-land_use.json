@@ -1,0 +1,111 @@
+{
+  "name": "land_use",
+  "description": "Urban development patterns, zoning regulations, and spatial planning for climate resilience",
+  "proposals": [
+    {
+      "text": "Mandate minimum one-acre lots for all new residential development and require single-use zoning with strict separation of residential and commercial areas.",
+      "sentiment": 0.0,
+      "rationale": "Actively enforces low-density, car-dependent sprawl by requiring dispersed development patterns that maximize transportation emissions and infrastructure energy use"
+    },
+    {
+      "text": "Remove all density bonuses and transit-oriented development incentives from zoning code while requiring minimum four parking spaces per unit.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately dismantles existing tools for compact development while enforcing car-centric patterns"
+    },
+    {
+      "text": "Prohibit mixed-use development and require minimum 1000-foot separation between different land uses.",
+      "sentiment": 0.1,
+      "rationale": "Systematically prevents walkable neighborhoods by enforcing strict use separation"
+    },
+    {
+      "text": "Mandate suburban-style setbacks of at least 50 feet for all new construction regardless of location.",
+      "sentiment": 0.15,
+      "rationale": "Enforces land-intensive development patterns that increase infrastructure energy demands"
+    },
+    {
+      "text": "Cap building heights at two stories in all zones regardless of transit access or location efficiency.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits density even in locations ideal for compact development"
+    },
+    {
+      "text": "Document development patterns without implementing any density or mixed-use provisions.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring of land use without promoting efficiency"
+    },
+    {
+      "text": "Allow optional clustering of development only when specifically requested by developers.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't encourage more efficient land use patterns"
+    },
+    {
+      "text": "Conduct basic walkability assessments of neighborhoods with voluntary improvement guidelines.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness of urban form impacts without requiring changes"
+    },
+    {
+      "text": "Install sidewalks in main commercial areas without comprehensive pedestrian network planning.",
+      "sentiment": 0.4,
+      "rationale": "Provides basic walking infrastructure without systematic approach"
+    },
+    {
+      "text": "Consider both compact and traditional development patterns equally in zoning decisions.",
+      "sentiment": 0.45,
+      "rationale": "Balances different development approaches without preference"
+    },
+    {
+      "text": "Maintain current mix of development patterns with equal treatment of all densities.",
+      "sentiment": 0.5,
+      "rationale": "Takes neutral approach to urban form and density"
+    },
+    {
+      "text": "Create overlay zones allowing higher density development near transit stops.",
+      "sentiment": 0.55,
+      "rationale": "Promotes location-efficient development through voluntary incentives"
+    },
+    {
+      "text": "Offer 25% density bonuses for developments achieving walkability and mixed-use criteria.",
+      "sentiment": 0.6,
+      "rationale": "Provides meaningful incentives for climate-friendly development patterns"
+    },
+    {
+      "text": "Require minimum residential density of 15 units per acre within quarter-mile of transit stations.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable transit-supportive density targets"
+    },
+    {
+      "text": "Implement form-based code requiring pedestrian-oriented design in all commercial districts.",
+      "sentiment": 0.7,
+      "rationale": "Creates comprehensive framework for walkable development"
+    },
+    {
+      "text": "Mandate mixed-use development with minimum 30 units per acre in all growth centers.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements for compact, efficient development"
+    },
+    {
+      "text": "Create car-free zones in major activity centers with comprehensive pedestrian infrastructure.",
+      "sentiment": 0.8,
+      "rationale": "Major transformation of urban mobility patterns"
+    },
+    {
+      "text": "Establish eco-districts requiring 75% of daily needs within 15-minute walk of all residences.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive approach to self-sufficient neighborhoods"
+    },
+    {
+      "text": "Require all new development to achieve net-zero transportation emissions through location and design.",
+      "sentiment": 0.9,
+      "rationale": "Transformative approach to climate-optimized development"
+    },
+    {
+      "text": "Create climate-positive zones requiring development to generate more renewable energy than consumed.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to regenerative urban form"
+    },
+    {
+      "text": "Mandate comprehensive sustainable neighborhood development achieving zero-carbon operations through integrated design, density, and renewable energy by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to climate-regenerative urban development"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "natural_hazards",
+  "description": "Disaster resilience, risk management, and climate adaptation planning",
+  "proposals": [
+    {
+      "text": "Remove all climate projections from hazard mitigation planning and mandate use of historical data only for emergency preparedness.",
+      "sentiment": 0.0,
+      "rationale": "Actively prevents adaptation to changing climate risks by removing forward-looking assessments from emergency planning"
+    },
+    {
+      "text": "Eliminate funding for climate-related disaster preparedness and restrict emergency planning to conventional hazards only.",
+      "sentiment": 0.05,
+      "rationale": "Deliberately reduces community capacity to prepare for climate-intensified disasters"
+    },
+    {
+      "text": "Prohibit inclusion of sea level rise projections in flood zone mapping and infrastructure planning.",
+      "sentiment": 0.1,
+      "rationale": "Systematically ignores growing climate risks in critical planning processes"
+    },
+    {
+      "text": "Mandate removal of climate change considerations from all emergency response protocols and training.",
+      "sentiment": 0.15,
+      "rationale": "Enforces outdated emergency response approaches that ignore climate impacts"
+    },
+    {
+      "text": "Cap disaster preparedness budgets at current levels with explicit exclusion of climate adaptation measures.",
+      "sentiment": 0.2,
+      "rationale": "Actively limits resources for climate-resilient emergency management"
+    },
+    {
+      "text": "Document extreme weather events without implementing any climate adaptation strategies.",
+      "sentiment": 0.25,
+      "rationale": "Provides basic monitoring without preparedness improvements"
+    },
+    {
+      "text": "Allow optional consideration of climate projections in non-critical infrastructure planning.",
+      "sentiment": 0.3,
+      "rationale": "Permits but doesn't require climate-informed planning"
+    },
+    {
+      "text": "Conduct basic climate vulnerability assessments with voluntary adaptation guidelines.",
+      "sentiment": 0.35,
+      "rationale": "Creates awareness of climate risks without requiring action"
+    },
+    {
+      "text": "Install flood monitoring systems in major waterways without adaptation planning.",
+      "sentiment": 0.4,
+      "rationale": "Provides basic risk monitoring without systematic response"
+    },
+    {
+      "text": "Consider both historical data and climate projections equally in hazard planning.",
+      "sentiment": 0.45,
+      "rationale": "Balances traditional and forward-looking risk assessment"
+    },
+    {
+      "text": "Maintain current emergency response capabilities with equal attention to all hazard types.",
+      "sentiment": 0.5,
+      "rationale": "Takes neutral approach to climate vs conventional risks"
+    },
+    {
+      "text": "Create public dashboard showing real-time natural hazard risks and climate indicators.",
+      "sentiment": 0.55,
+      "rationale": "Promotes transparency and awareness of evolving risks"
+    },
+    {
+      "text": "Offer 30% matching funds for private property climate resilience improvements.",
+      "sentiment": 0.6,
+      "rationale": "Provides meaningful incentives for adaptation measures"
+    },
+    {
+      "text": "Require all critical infrastructure upgrades to incorporate 2050 climate projections.",
+      "sentiment": 0.65,
+      "rationale": "Sets mandatory but achievable climate resilience standards"
+    },
+    {
+      "text": "Implement comprehensive flood early warning system with automated alerts and evacuation protocols.",
+      "sentiment": 0.7,
+      "rationale": "Creates robust systems for climate-related emergency response"
+    },
+    {
+      "text": "Mandate climate risk assessments and adaptation plans for all municipal capital projects.",
+      "sentiment": 0.75,
+      "rationale": "Strong requirements for climate-resilient infrastructure"
+    },
+    {
+      "text": "Create resilience zones requiring all new development to withstand category 5 hurricanes and 500-year floods.",
+      "sentiment": 0.8,
+      "rationale": "Major investment in climate-resilient infrastructure"
+    },
+    {
+      "text": "Establish integrated climate resilience system combining natural infrastructure, early warning, and adaptive management.",
+      "sentiment": 0.85,
+      "rationale": "Comprehensive transformation of risk management"
+    },
+    {
+      "text": "Require all neighborhoods to achieve specific resilience metrics for heat, flooding, and storm impacts.",
+      "sentiment": 0.9,
+      "rationale": "Transformative approach to community-wide resilience"
+    },
+    {
+      "text": "Create climate-resilient infrastructure network with redundant systems and adaptive capacity for 2100 projections.",
+      "sentiment": 0.95,
+      "rationale": "Near-complete transformation to future-proof systems"
+    },
+    {
+      "text": "Mandate comprehensive climate resilience achieving protection against all projected 2100 hazards through integrated infrastructure, natural systems, and community preparation by 2026.",
+      "sentiment": 1.0,
+      "rationale": "Complete transformation to climate-resilient city systems"
+    }
+  ]
+}
